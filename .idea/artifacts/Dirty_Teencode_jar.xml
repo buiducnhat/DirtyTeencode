@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dirty Teencode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dirty_Teencode_jar</output-path>
+    <root id="archive" name="Dirty Teencode.jar">
+      <element id="module-output" name="Dirty Teencode" />
+    </root>
+  </artifact>
+</component>
